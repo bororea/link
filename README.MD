@@ -24,22 +24,4 @@ To add a new link, just duplicate an existing line between the links div or add 
 
 ## Add Emojis
 
-If you want to add emojis to your links, you can Copy/Paste them via [GetEmoji](https://getemoji.com/). For current Mac and Windows versions, there is also a system shortcut.
-
-Mac:
-```
-Ctrl + Cmd + Space
-```
-
-Windows 
-```
-Windows + ; (semi-colon) 
-``` 
-or
-```
-Windows + . (period)
-```
-
-
-## Sources
-
+If you want to add emojis to your links, you can Copy/Paste them via [GetEmoji](https://getemoji.com/).
